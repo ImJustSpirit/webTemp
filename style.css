@@ -10,7 +10,11 @@
 body{
     text-align: center;
     background-color: var(--paper);
-    font-size: 32px;
+    font-size: 3vw;
+}
+
+.spacing{
+    height: 70vh;
 }
 
 /*====={Splash Screen}=====*/
