@@ -10,7 +10,7 @@
 
 body{
     padding: 5vh 10vw;
-    font-size: 1vw;
+    font-size: medium;
     min-height: 100vh;
     background-color: var(--primary);
     color: #262626;
